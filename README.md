@@ -9,7 +9,7 @@ A silly JavaScript script that aims to automate the tedious Tinder swiping proce
 Features
 -----------
 
-Tinder tries to mimic human behaviour (a man's one) thus it features
+Tinder Autopilot tries to mimic human behaviour (a man's one) thus it features
 * Auto likes (more frequent)
 * Auto dislikes (more rare)
 * Will wait until your like limit is over and start swiping again.
