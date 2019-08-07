@@ -27,9 +27,9 @@ Just copy/paste the content of [autopilot.js](https://github.com/ThanosFisherman
 5. Click somewhere inside the Tinder GUI to focus.
 6. Enjoy
  
-**Alternatively** you can also save this script as a snippet `Ctrl + Shift + J > Sources (tab) > Snippets (subtab)` in Chrome so that you don't have to copy/paste it every time 
+**Alternatively** you can also save this script as a snippet `Ctrl + Shift + J > Sources (tab) > Snippets (subtab)` in Chrome so that you don't have to copy/paste it every time.
 
-Press `Spacebar` at any time to Pause/Resume auto swiping
+Press `Spacebar` at any time to Pause/Resume auto swiping.
 
 Press `s` to stop and don't forget to reload the page afterwards.
 
